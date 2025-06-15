@@ -1,2 +1,3 @@
 # Citatio
-A model that predicts whether a paper cites another paper
+
+A paper citation prediction model, project of the course "Natural Language Processing" at the University of Ioannina.
